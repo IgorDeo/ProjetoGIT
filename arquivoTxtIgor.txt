@@ -1,1 +1,1 @@
-Criação de um arquivo txt
+Geração de conflito no merge Igor -> master
