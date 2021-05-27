@@ -1,1 +1,2 @@
 Criação de um arquivo txt
+Alteração no arquivo para geração de conflito
